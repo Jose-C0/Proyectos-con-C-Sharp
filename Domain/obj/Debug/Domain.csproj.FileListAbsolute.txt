@@ -1,0 +1,11 @@
+I:\Windows_10_ROG\TAREA UNI\LP1\Veterinaria\Domain\bin\Debug\Domain.dll
+I:\Windows_10_ROG\TAREA UNI\LP1\Veterinaria\Domain\bin\Debug\Domain.pdb
+I:\Windows_10_ROG\TAREA UNI\LP1\Veterinaria\Domain\bin\Debug\DataAccess.dll
+I:\Windows_10_ROG\TAREA UNI\LP1\Veterinaria\Domain\bin\Debug\DataAccess.pdb
+I:\Windows_10_ROG\TAREA UNI\LP1\Veterinaria\Domain\obj\Debug\Domain.csprojAssemblyReference.cache
+I:\Windows_10_ROG\TAREA UNI\LP1\Veterinaria\Domain\obj\Debug\Domain.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\TAREA UNI\LP1\Veterinaria\Domain\obj\Debug\Domain.csproj.CopyComplete
+I:\Windows_10_ROG\TAREA UNI\LP1\Veterinaria\Domain\obj\Debug\Domain.dll
+I:\Windows_10_ROG\TAREA UNI\LP1\Veterinaria\Domain\obj\Debug\Domain.pdb
+I:\Windows_10_ROG\TAREA UNI\LP1\Veterinaria\Domain\bin\Debug\CapaSoporte.dll
+I:\Windows_10_ROG\TAREA UNI\LP1\Veterinaria\Domain\bin\Debug\CapaSoporte.pdb

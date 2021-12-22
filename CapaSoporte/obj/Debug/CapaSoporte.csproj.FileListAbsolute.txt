@@ -1,0 +1,6 @@
+I:\Windows_10_ROG\TAREA UNI\LP1\Veterinaria\CapaSoporte\bin\Debug\CapaSoporte.dll
+I:\Windows_10_ROG\TAREA UNI\LP1\Veterinaria\CapaSoporte\bin\Debug\CapaSoporte.pdb
+I:\Windows_10_ROG\TAREA UNI\LP1\Veterinaria\CapaSoporte\obj\Debug\CapaSoporte.csprojAssemblyReference.cache
+I:\Windows_10_ROG\TAREA UNI\LP1\Veterinaria\CapaSoporte\obj\Debug\CapaSoporte.csproj.CoreCompileInputs.cache
+I:\Windows_10_ROG\TAREA UNI\LP1\Veterinaria\CapaSoporte\obj\Debug\CapaSoporte.dll
+I:\Windows_10_ROG\TAREA UNI\LP1\Veterinaria\CapaSoporte\obj\Debug\CapaSoporte.pdb
