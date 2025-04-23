@@ -61,11 +61,13 @@ La base de datos `GestionVeterinaria` incluye las siguientes tablas principales:
 2. Abrir el proyecto en Visual Studio y compilar la solución.
 3. Ejecutar la aplicación desde el proyecto principal.
 
-
-Generame
+## Diagrama del Proyecto
 
 ```mermaid
-    graph TD;
-    A-->B; 
-    B-->C;
+graph TD
+    A[Interfaz de Usuario] -->|Windows Forms| B[Lógica de Negocio]
+    B -->|Validaciones y Reglas| C[Acceso a Datos]
+    C -->|Operaciones CRUD| D[Base de Datos SQL Server]
+    D -->|Tablas Principales| E[Rol, Usuario, Clientes, Pacientes, Productos, Consultas]
 ```
+Este diagrama muestra la arquitectura en capas del proyecto, destacando la interacción entre la interfaz de usuario, la lógica de negocio, el acceso a datos y la base de datos.
