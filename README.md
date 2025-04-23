@@ -71,3 +71,52 @@ graph TD
     D -->|Tablas Principales| E[Rol, Usuario, Clientes, Pacientes, Productos, Consultas]
 ```
 Este diagrama muestra la arquitectura en capas del proyecto, destacando la interacción entre la interfaz de usuario, la lógica de negocio, el acceso a datos y la base de datos.
+
+
+
+```mermaid
+erDiagram
+    Rol {
+        int Id
+        string Nombre
+    }
+    Usuario {
+        int Id
+        string Nombre
+        string Correo
+        string Contraseña
+        int RolId
+    }
+    Clientes {
+        int Id
+        string Nombre
+        string Telefono
+        string Direccion
+    }
+    Pacientes {
+        int Id
+        string Nombre
+        string Especie
+        string Raza
+        int ClienteId
+    }
+    Productos {
+        int Id
+        string Nombre
+        string Descripcion
+        decimal Precio
+    }
+    Consultas {
+        int Id
+        int ClienteId
+        int PacienteId
+        date Fecha
+        string Detalles
+    }
+
+    Rol ||--o{ Usuario : "asigna"
+    Clientes ||--o{ Pacientes : "posee"
+    Usuario ||--o{ Consultas : "registra"
+    Clientes ||--o{ Consultas : "realiza"
+    Pacientes ||--o{ Consultas : "involucra"
+```
