@@ -6,21 +6,11 @@ Este proyecto es un sistema de gestión para una clínica veterinaria, desarroll
 ## Funcionalidades Principales
 
 1. **Gestión de Usuarios y Roles**:
-   - Registro, edición y eliminación de usuarios.  
-   - Asignación de roles a los usuarios.  
-
 2. **Gestión de Clientes y Pacientes**:
-   - Registro y mantenimiento de clientes (propietarios de mascotas).  
-   - Registro y mantenimiento de pacientes (mascotas).  
-
 3. **Control de Consultas**:
-   - Registro de consultas realizadas en la clínica, incluyendo información del cliente, mascota, fecha y hora.  
-
 4. **Gestión de Productos**:
-   - Registro y consulta de productos disponibles en la clínica, como medicamentos y suministros.  
-
 5. **Reportes**:
-   - Generación de listados de clientes, pacientes y productos.  
+
 
 ## Estructura del Proyecto
 
